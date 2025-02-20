@@ -1,5 +1,7 @@
 # paired_files_handler
 
+Currently hardcoded in paths for the dirs to check. Is made with option of having more than two directories to batch process.
+
 ## My usage for reference
 
 Setup to put in path:
